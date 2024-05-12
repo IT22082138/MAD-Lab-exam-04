@@ -39,7 +39,7 @@
         android:layout_marginBottom="16dp"
         android:backgroundTint="@color/purple"
         android:src="@drawable/baseline_add_24"
-        android:tint="@color/black" />
+        android:tint="@color/white" />
 
 </RelativeLayout>
 
