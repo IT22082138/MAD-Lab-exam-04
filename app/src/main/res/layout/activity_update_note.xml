@@ -45,7 +45,7 @@
         android:id="@+id/updateContentEditText"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:hint="Enter The Description"
+        android:hint="Start Typing"
         android:gravity="top"
         android:padding="12dp"
         android:textSize="18sp"
